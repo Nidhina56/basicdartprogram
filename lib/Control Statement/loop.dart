@@ -1,7 +1,7 @@
 void main() {
   var n = 10;
   do {
-    print(n);
+    print("First n naztural numbers ${n}");
     n--;
   }
   while(n>=0);
